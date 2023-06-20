@@ -18,6 +18,7 @@ This module has an operating voltage range of 3.3 ~ 5.5V. It supports a 3-pin i
 
 * The thermistor is a temperature sensor that uses a semiconductor and measures the temperature and sends this information in terms of resistance value. It is able to record the slightest temperature changes.
 
+
 ## NodeMCU Esp8266
 ![image](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/assets/133521400/cd4fa97c-51a3-4c13-bea2-142ec70e4120)
 
