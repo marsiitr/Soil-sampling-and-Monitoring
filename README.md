@@ -9,6 +9,27 @@
 
 * We have developed an IoT-based soil sampling system that can accurately and efficiently collect soil samples, analyze the soil in real-time, and gives various parameters like moisture content, pH value, and temperature of soil so that people can choose the best soil for farming.
 
+* We've used these sensors in the project:
+  1. Capacitive Moisture sensor
+  2. pH sensor
+  3. Temperature sensor
+
+* A NodeMCU Esp8266 is used to store the code.
+  
+* The details can be found at : 
+  [Equipments Description](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/blob/main/EquipmentsDescription.md)
+
+### Circuit diagram
+
+* We've  designed the circuit of this model as : 
+![image](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/assets/133521400/c7bc868b-a98a-4500-b10f-862b40bbd4aa)
+
+### CAD Model
+
+* The model is kept inside a box which is basically a CAD Model.
+* The designs can be found at :
+  [CAD Model](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/blob/main/CADModel.md)
+
 ### Result
 
 * As the project ended,we’ve been able to get data from the sensors, and using IoT, we’re sending that data to the cloud successfully. That data is easily available on our device using the Blynk IoT platform.
