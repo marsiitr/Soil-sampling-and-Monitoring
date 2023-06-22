@@ -1,6 +1,6 @@
 ### CAD Model
 
-* The images of our design looks like
+* The images of our design looks like: 
   
 ![image](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/assets/133521400/b6c7be6d-c86c-47a1-963e-6bea6a19ca36)
 ![image](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/assets/133521400/e4cbe6f9-e8a8-4824-928b-3ba85113a063)
