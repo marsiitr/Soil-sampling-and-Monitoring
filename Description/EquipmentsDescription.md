@@ -23,6 +23,6 @@ This module has an operating voltage range of 3.3 ~ 5.5V. It supports a 3-pin i
 ![image](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/assets/133521400/cd4fa97c-51a3-4c13-bea2-142ec70e4120)
 
 
-* The ESP8266 is a low-cost Wi-Fi microchip with built-in TCP/IP networking software and microcontroller capability.The ESP8266 WiFi Module is a self-contained SOC with an integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. The ESP8266 can host an application or offload all WiFi networking functions from another processor. Each ESP8266 module comes pre-programmed with an AT command set firmware, meaning we can simply hook this up to our Arduino device and get about as much WiFi-ability as a WiFi Shield offers. It has 17 GPIO pins, a serial peripheral interface bus(SPI), and a 10-bit ADC, making it easy to use.
+* The ESP8266 is a low-cost Wi-Fi microchip with built-in TCP/IP networking software and microcontroller capability.The ESP8266 WiFi Module is a self-contained SOC with an integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network. The ESP8266 can host an application or offload all WiFi networking functions from another processor. Each ESP8266 module comes pre-programmed with an AT command set firmware, meaning we can simply hook this up to our Arduino device and get about as much WiFi-ability as a WiFi Shield offers. It has 17 GPIO pins, a serial peripheral interface bus(SPI), and a 10-bit ADC, making it easy to use.
 
 
