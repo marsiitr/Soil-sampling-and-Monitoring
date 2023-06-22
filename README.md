@@ -19,7 +19,7 @@
 * The code is available at : [Code](Code)
 
 * The details can be found at : 
-  [Equipments Description](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/blob/main/EquipmentsDescription.md)
+  [Equipments Description](Description/EquipmentsDescription.md)
 
 ### Circuit diagram
 
@@ -30,7 +30,7 @@
 
 * The model is kept inside a box which is basically a CAD Model.
 * The designs can be found at :
-  [CAD Model](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/blob/main/CADModel.md)
+  [CAD Model](CAD model)
 
 ### Result
 
@@ -41,6 +41,8 @@
 * So this can be used from far locations as well as it uses  wi-fi which makes it handy its interface is also very easy to use, so any newcomer can get accurate and necessary information about the soil very easily. 
 
 ### TEAM MEMBERS
-1.Priyanshu Mishra
-2.Pratham Sahil
-3.Mohit Kumar
+
+1. Priyanshu Mishra
+2. Pratham Sahil
+3. Mohit Kumar
+4. Harshad Yugraj
