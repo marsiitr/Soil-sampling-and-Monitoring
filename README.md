@@ -38,4 +38,7 @@
   
 * So this can be used from far locations as well as it uses  wi-fi which makes it handy its interface is also very easy to use, so any newcomer can get accurate and necessary information about the soil very easily. 
 
-
+### TEAM MEMBERS
+1.Priyanshu Mishra
+2.Pratham Sahil
+3.Mohit Kumar
