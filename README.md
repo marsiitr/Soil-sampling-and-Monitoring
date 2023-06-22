@@ -15,7 +15,9 @@
   3. Temperature sensor
 
 * A NodeMCU Esp8266 is used to store the code.
-  
+
+* The code is available at : [Code](Code)
+
 * The details can be found at : 
   [Equipments Description](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/blob/main/EquipmentsDescription.md)
 
