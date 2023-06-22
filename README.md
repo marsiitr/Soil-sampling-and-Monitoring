@@ -30,7 +30,7 @@
 
 * The model is kept inside a box which is basically a CAD Model.
 * The designs can be found at :
-  [CAD Model](CAD model)
+  [CAD Model](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/tree/main/CAD%20model)
 
 ### Result
 
