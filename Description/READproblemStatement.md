@@ -1,4 +1,4 @@
-Soil Sampling and Monitoring:
+Soil Sampling and Monitoring: 
 
 Problem Statement: Soil sampling is a crucial aspect of soil health monitoring, as it provides essential information about the soil's physical, chemical, and biological properties. Traditional soil sampling methods are manual, time-consuming, and often result in inconsistent and unreliable data. The need for a more efficient and accurate soil sampling system is crucial in ensuring sustainable agriculture and food security.
 
