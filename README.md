@@ -16,7 +16,7 @@
 
 * A NodeMCU Esp8266 is used to store the code.
 
-* The code is available at : [Code](Code)
+* The code is available at : [src](Code)
 
 * The details can be found at : 
   [Equipments Description](Description/EquipmentsDescription.md)
@@ -30,7 +30,7 @@
 
 * The model is kept inside a box which is basically a CAD Model.
 * The designs can be found at :
-  [CAD Model](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/tree/main/CAD%20model)
+  [Mechanical Design]([https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/tree/main/CAD%20model](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/tree/main/Mechanical%20Design))
 
 ### Result
 
