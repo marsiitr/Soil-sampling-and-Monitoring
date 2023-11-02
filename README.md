@@ -16,7 +16,7 @@
 
 * A NodeMCU Esp8266 is used to store the code.
 
-* The code is available at : [src](Code)
+* The code is available at : [src](https://github.com/PrathamSahil/Soil-sampling-and-Monitoring/tree/main/src)
 
 * The details can be found at : 
   [Equipments Description](Description/EquipmentsDescription.md)
